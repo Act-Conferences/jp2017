@@ -20,7 +20,7 @@
 
     [% WRAPPER isponsor
     img = "pa-logo-small.png"
-    name = "Perl Academy.de
+    name = "Perl Academy.de"
     url = "http://perl-academy.de/"
     lnk = "perl-academy"
     %]
