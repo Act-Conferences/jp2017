@@ -48,10 +48,10 @@
             <div class="visible-phone">
                 <div class="header-titre">
                 <h1>
-                    <t><fr>Les Journ&eacute;es Perl 2016</fr><en>French Perl Workshop 2016</en></t>
+                    <t><fr>Les Journ&eacute;es Perl 2017</fr><en>French Perl Workshop 2017</en></t>
                 </h1>
                 <p>
-                    <t><fr>vendredi 24, samedi 25 juin 2016 &agrave; Paris</fr><en>June 24-25, 2016 in Paris</en></t>
+                    <t><fr>vendredi 9, samedi 10 juin 2017 &agrave; Paris</fr><en>June 9-10, 2017 in Paris</en></t>
                 </p>
                 </div>
             </div>
@@ -59,10 +59,10 @@
             <div class="visible-tablet">
                 <div class="header-titre">
                 <h1>
-                    <t><fr>Les Journ&eacute;es Perl 2016</fr><en>French Perl Workshop 2016</en></t>
+                    <t><fr>Les Journ&eacute;es Perl 2017</fr><en>French Perl Workshop 2017</en></t>
                 </h1>
                 <p>
-                    <t><fr>vendredi 24, samedi 25 juin 2016 &agrave; Paris</fr><en>June 24-25, 2016 in Paris</en></t>
+                    <t><fr>vendredi 9, samedi 10 juin 2017 &agrave; Paris</fr><en>June 9-10, 2017 in Paris</en></t>
                 </p>
                 </div>
             </div>
@@ -70,10 +70,10 @@
            <div class="row-fluid visible-desktop">
                 <div class="header-titre">
                 <h1>
-                    <t><fr>Les Journ&eacute;es Perl 2016</fr><en>French Perl Workshop 2016</en></t>
+                    <t><fr>Les Journ&eacute;es Perl 2017</fr><en>French Perl Workshop 2017</en></t>
                 </h1>
                 <p>
-                    <t><fr>vendredi 24, samedi 25 juin 2016 &agrave; Paris</fr><en>June 24-25, 2016 in Paris</en></t>
+                    <t><fr>vendredi 9, samedi 10 juin 2017 &agrave; Paris</fr><en>June 9-10, 2017 in Paris</en></t>
                 </p>
                 </div>
             </div>
@@ -113,7 +113,7 @@
                       [% PROCESS menus/act_confs %]
                 </div>
                 <p id="copyright">Copyright &copy; <a
-                href="http://mongueurs.net" >Les Mongueurs de Perl</a>, 2004-2016
+                href="http://mongueurs.net" >Les Mongueurs de Perl</a>, 2004-2017
                 | Powered by <a href="http://act.mongueurs.net/">Act</a>
                 | Running on <a href="http://www.freebsd.org/">FreeBSD</a></p>
             </div>
