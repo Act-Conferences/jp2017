@@ -12,9 +12,9 @@
     [% END %]
 
     [% WRAPPER isponsor
-      img = 'logo.citesciences.small.png'
-      name = "Cité des Sciences et de l'Industrie"
-      url = 'http://www.cite-sciences.fr/'
+      img = 'logo.carrnum.jpg'
+      name = "Carrefour Numérique²"
+      url = 'http://www.cite-sciences.fr/fr/au-programme/lieux-ressources/carrefour-numerique2/'
     %]
     [% END %]
 
